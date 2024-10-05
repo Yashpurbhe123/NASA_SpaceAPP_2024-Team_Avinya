@@ -174,6 +174,9 @@ The Butterworth filter applied in the code above separates the primary seismic w
 - **Noise**: Visualizes the high-frequency noise extracted from the original signal.
 ![Original Dataset](/_Mars%20Data%20Wave%20Denoising%20Prototype/image/Screenshot%202024-10-05%20150626.png)
 
+- **Note** - The seismic wave data provided by NASA, which contained noise, has been fully denoised using our Jupyter program. We have organized the data into separate folders for each wave. Within each folder, the denoised main data and the noise data for each wave are stored. The main data is saved as **main_data_wave.csv**, while the noise data is saved as **noise_wave.csv**. This structure is maintained for every wave, with each wave stored in its own folder.<br>
+For faster access and demonstration purposes, we have included a single wave from both the Lunar and Mars datasets. These two waves are stored in the **Lunar Data Wave Denoising Prototype** folder and the **Mars Data Wave Denoising Prototype** folder, respectively. This serves to showcase how we developed the solution. The same denoising process has been applied to all the waves provided by NASA.
+
 ---
 
 ## Why Denoising is Important
