@@ -202,7 +202,7 @@ __________________________________________________________
 ### Members:
 - Yash Shivlal Purbhe
 - Dipshree Atul Vartak
-- Karan Navnath Waghchaure
-- Saniya Santosh Puchalwar
 - Aditya Rajendra Kokate
+- Saniya Santosh Puchalwar
+- Karan Navnath Waghchaure
 - Roshni Kumari Sah
