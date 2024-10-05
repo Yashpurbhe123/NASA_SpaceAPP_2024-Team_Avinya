@@ -155,24 +155,24 @@ The Butterworth filter applied in the code above separates the primary seismic w
 ### Example 1: Original and Filtered Data of lunar dataset > S12_GreadB > xa.s12.00.mhz.1972-02-21HR00_evid00190.csv
 
 - **Original Dataset**: This is the raw dataset provided for analysis.
-![Original Dataset](/_Lunar%20Data%20Wave%20Denoising%20Prototype/Screenshot%202024-10-05%20153310.png)
+![Original Dataset](/NASA_SpaceAPP_2024-Team_Avinya/_Lunar%20Data%20Wave%20Denoising%20Prototype/image/Screenshot%202024-10-05%20153310.png)
 
 - **Filtered Data**: The primary seismic wave extracted from the original dataset.
-![Original Dataset](/_Lunar%20Data%20Wave%20Denoising%20Prototype/Screenshot%202024-10-05%20153326.png)
+![Original Dataset](/NASA_SpaceAPP_2024-Team_Avinya/_Lunar%20Data%20Wave%20Denoising%20Prototype/image/Screenshot%202024-10-05%20153326.png)
 
 - **Noise**: The unwanted noise removed during the filtering process.<br>
-![Original Dataset](/_Lunar%20Data%20Wave%20Denoising%20Prototype/Screenshot%202024-10-05%20153339.png)
+![Original Dataset](/NASA_SpaceAPP_2024-Team_Avinya/_Lunar%20Data%20Wave%20Denoising%20Prototype/image/Screenshot%202024-10-05%20153339.png)
 
 ### Example 2: Original and Filtered Data of Mars dataset  > XB.ELYSE.02.BHV.2022-04-09HR22_evid0002.csv
 
 - **Original Signal**: Displays the raw seismic data.
-![Original Dataset](/_Mars%20Data%20Wave%20Denoising%20Prototype/Screenshot%202024-10-05%20150559.png)
+![Original Dataset](/NASA_SpaceAPP_2024-Team_Avinya/_Mars%20Data%20Wave%20Denoising%20Prototype/image/Screenshot%202024-10-05%20150559.png)
 
 - **Denoised Signal**: Shows the cleaned data after applying the Butterworth filter.
-![Original Dataset](/_Mars%20Data%20Wave%20Denoising%20Prototype/Screenshot%202024-10-05%20150612.png)
+![Original Dataset](/NASA_SpaceAPP_2024-Team_Avinya/_Mars%20Data%20Wave%20Denoising%20Prototype/image/Screenshot%202024-10-05%20150612.png)
 
 - **Noise**: Visualizes the high-frequency noise extracted from the original signal.
-![Original Dataset](/_Mars%20Data%20Wave%20Denoising%20Prototype/Screenshot%202024-10-05%20150626.png)
+![Original Dataset](/NASA_SpaceAPP_2024-Team_Avinya/_Mars%20Data%20Wave%20Denoising%20Prototype/image/Screenshot%202024-10-05%20150626.png)
 
 ---
 
