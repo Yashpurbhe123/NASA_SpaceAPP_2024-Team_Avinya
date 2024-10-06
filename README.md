@@ -1,5 +1,6 @@
-
 # Seismic Detection Across the Solar System
+
+![Image](Screenshot%202024-10-06%20221618.png)
 
 ## Project Overview
 
